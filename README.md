@@ -34,16 +34,22 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-<img align="left"  width="40" height="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img width="40" height="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
+<a href="https://github.com/vtnorton">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgekleber&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jorgekleber&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgekleber&theme=dark" alt="jorgekleber" />
+</a>
 
 <br />
-   
-<p> <img src="https://komarev.com/ghpvc/?username=jorgekleber&label=Profile%20views&color=0e75b6&style=flat" alt="jorgekleber" /> </p>
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgekleber&show_icons=true&theme=dark&locale=en&layout=compact" alt="jorgekleber" /></p>
+<p>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=jorgekleber&label=Profile%20views&color=0e75b6&style=flat" alt="jorgekleber" /> 
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgekleber&show_icons=true&theme=dark&locale=en" alt="jorgekleber" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgekleber&theme=dark" alt="jorgekleber" /></p>
